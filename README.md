@@ -21,7 +21,7 @@ static-site-repo/
    ```
 2. Navigate into the project directory:
    ```bash
-   cd static-site-repo
+   cd static-site
    ```
 3. Install `http-server` if you haven't already:
    ```bash
